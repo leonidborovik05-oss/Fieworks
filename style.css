@@ -1,0 +1,89 @@
+h1, h2 {
+	font-family: Impact, Charcoal, sans-serif;
+    color: darkblue;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 5px solid blue;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+header b {
+    color: darkblue;
+    font-family: Cursive;
+}
+
+header a {
+   color: white;
+   background-color: darkblue;
+   border-radius: 5px;
+   border: 3px solid darkblue;
+   text-decoration: none;
+   padding: 2px;
+   margin: 5px; 
+}
+
+.h1 {
+    font-family: Cursive;
+    text-align: center;
+    color: darkblue;
+}
+
+footer {
+    border: 2px dashed darkblue;
+    background-color: lightblue;
+}
+
+footer p {
+    border: 1px dotted darkblue;
+    background-color: white;
+    color: blue;
+    margin: 5px;
+}
+
+nav {
+    border: 1px solid lightblue;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+nav a {
+    background-color: darkblue;
+    border: 3px solid darkblue;
+    color: white;
+    padding: 5px;
+    margin: 45px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.produkti {
+    color: darkblue;
+    border: 3px solid darkblue;
+    padding: 4px;
+    margin: 3px;
+    background-color: white;
+}
+
+.fireworks {
+    border: 3px solid darkblue;
+    padding: 10px;
+    border-radius: 13px;
+}
+
+.gifts {
+    border: 2px solid darkblue;
+    border-radius: 5px;
+}
+
+.A2 {
+    border: 3px solid darkblue;
+    padding: 5px;
+    color: darkblue;
+}
